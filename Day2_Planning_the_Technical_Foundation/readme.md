@@ -68,6 +68,7 @@ To enhance functionality and deliver a seamless shopping experience, the Nike Ma
 
 
 ## APIEndpoints
+
 ![APIEndpoints](API-Endpoints.png)
 
 
