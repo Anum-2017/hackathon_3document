@@ -19,10 +19,15 @@ The platform offers a wide range of Nike products with a user-friendly shopping 
 
 Frontend Technologies:
 •	Next.js: A powerful and fast framework that guarantees excellent performance and mobile-first design.
+
 •	Tailwind CSS: A utility-first CSS framework for building responsive and visually appealing designs with minimal effort.
+
 •	Shadcn UI: A modern UI component library that enhances the user interface with pre-designed, customizable components that streamline development and improve consistency across the application.
+
 •	ShipEngine: Provides shipment tracking and delivery updates.
+
 •	Stripe: A secure and reliable payment gateway to handle transactions and various payment methods, ensuring safe and smooth online purchases.
+
 Essential Pages:
 •	Home Page: Highlights featured Nike products and promotions, encouraging users to explore the site.
 •	Product Listing Page: Displays Nike products with filtering and sorting options for a tailored shopping experience.
