@@ -1,4 +1,4 @@
-## Hackathon 3 - Day 2: Planning the Technical Foundation**
+## Hackathon 3 - Day 2: Planning the Technical Foundation
 # Prepared by: Anum Kamal
 
 # Nike Marketplace
