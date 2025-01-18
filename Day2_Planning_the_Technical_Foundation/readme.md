@@ -65,7 +65,7 @@ To enhance functionality and deliver a seamless shopping experience, the Nike Ma
 
 ## 2. System Architecture:
 ![System architecture](system-architecture.png)
-
+Day2_Planning_the_Technical_Foundation/System architecture.png
 
 ## APIEndpoints
 
