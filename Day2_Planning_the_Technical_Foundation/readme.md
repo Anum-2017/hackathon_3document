@@ -17,7 +17,7 @@ The platform offers a wide range of Nike products with a user-friendly shopping 
 # Frontend Requirements: 
  The frontend of the Nike Marketplace website is built with Next.js, ensuring a fast, responsive user experience. It provides customers with a seamless shopping journey while showcasing authentic Nike products in a visually appealing and intuitive design.
 
-Frontend Technologies:
+**Frontend Technologies:**
 •	Next.js: A powerful and fast framework that guarantees excellent performance and mobile-first design.
 
 •	Tailwind CSS: A utility-first CSS framework for building responsive and visually appealing designs with minimal effort.
@@ -28,12 +28,16 @@ Frontend Technologies:
 
 •	Stripe: A secure and reliable payment gateway to handle transactions and various payment methods, ensuring safe and smooth online purchases.
 
-Essential Pages:
+**Essential Pages:**
 •	Home Page: Highlights featured Nike products and promotions, encouraging users to explore the site.
+
 •	Product Listing Page: Displays Nike products with filtering and sorting options for a tailored shopping experience.
+
 •	Product Details Page: Offers detailed information about each Nike product, including images, price, and available options.
 •	Cart Page: Allows users to review selected items and proceed to checkout.
+
 •	Checkout Page: Facilitates secure payment and collection of shipping information.
+
 •	Order Confirmation Page: Confirms the successful placement of an order with tracking details.
 
  # Sanity CMS as Backend: 
