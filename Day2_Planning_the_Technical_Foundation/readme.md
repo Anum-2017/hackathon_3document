@@ -64,7 +64,7 @@ To enhance functionality and deliver a seamless shopping experience, the Nike Ma
 •	Payment Gateway (Stripe): Manages secure payment processing, allowing customers to make safe and smooth transactions for Nike products.
 
 ## 2. System Architecture:
- ![System Architecture](System architecture.PNG)
+
 
 ## APIEndpoints
 
