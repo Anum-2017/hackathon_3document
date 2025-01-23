@@ -1,7 +1,4 @@
-## CSV-testing-report-for-hackathon
-### Test Cases
 
-Below is the list of test cases for the application:
 
 Test Case ID,Description,Steps,Expected Result,Actual Result,Status,Remarks
 TC001,Validate product listing,Open product page > Verify products,Products displayed,Products displayed,Passed,No issues found
